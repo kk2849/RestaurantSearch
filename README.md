@@ -1,9 +1,10 @@
 # Overview
 
 Name: Kevin Kim
+
 Date: December 2021
 
-# Assignment Details
+# Project Details
 
 Made with Python 3.8.10 and VS Code
 
